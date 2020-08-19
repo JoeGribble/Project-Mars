@@ -1,0 +1,20 @@
+.content__container {
+  background: #2a475e;
+  color: #c7d5e0;
+  margin: 1rem;
+  padding: 1rem; }
+
+.nav__icon {
+  font-size: .75rem;
+  text-decoration: none !important; }
+
+.nav__link {
+  margin-left: 1rem;
+  text-decoration: underline; }
+
+.page__container {
+  background: #1b2838;
+  color: #c7d5e0;
+  margin: 1rem;
+  padding: 1rem;
+  flex-direction: column; }

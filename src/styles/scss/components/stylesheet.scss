@@ -1,0 +1,30 @@
+.content {
+  &__container {
+    background: #2a475e;
+    color: #c7d5e0;
+    margin: 1rem;
+    padding: 1rem;
+  }
+}
+
+.nav {
+  &__icon {
+    font-size: .75rem;
+    text-decoration: none !important;
+  }
+
+  &__link {
+    margin-left: 1rem;
+    text-decoration: underline;
+  }
+}
+
+.page {
+  &__container {
+    background: #1b2838;
+    color: #c7d5e0;
+    margin: 1rem;
+    padding: 1rem;
+    flex-direction: column;
+  }
+}
